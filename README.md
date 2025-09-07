@@ -1,4 +1,4 @@
-# IBM_Student_Depression_Dataset_Analysis
+# IBM Student Depression Dataset Analysis
 
 ## Project Overview
 Using the Student Depression Dataset, I aim to explore specific patterns, such as the relationship between sleep duration and depression, the influence of dietary habits on mental state, and the impact of financial stress and workload on the risk of depression. This analysis is expected to provide clearer insights into what factors may influence a student's likelihood of experiencing depression.
